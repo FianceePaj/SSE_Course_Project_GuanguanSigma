@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-prod
+  user:
+    username: zlf
+    password: 1234
